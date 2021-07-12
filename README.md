@@ -1,0 +1,2 @@
+# AnilistAPiOauth
+🎎 Anilist Oauth
