@@ -44,7 +44,7 @@ app.get('/logout', function(req, res) {
     res.redirect('/');
 });
 
-app.listen(5000, () => {
-    console.log('Listening at http://localhost:5000/')
+app.listen(() => {
+    console.log('Listening !')
 });
 
